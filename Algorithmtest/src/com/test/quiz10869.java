@@ -8,7 +8,7 @@ public class quiz10869 {
 		Scanner sc=new Scanner(System.in);
 		int a;
 		int b;
-		//??
+		//???
 		a=sc.nextInt();
 		b=sc.nextInt();
 		
