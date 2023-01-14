@@ -1,8 +1,9 @@
-package com.test;
+package baekjoon;
 
 import java.util.Scanner;
 
-public class quiz1001 {
+public class quiz1000 {
+
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		
@@ -14,9 +15,10 @@ public class quiz1001 {
 		
 		if(a>0 && b<10) {
 		
-			System.out.println(a-b);
+			System.out.println(a+b);
 		}
 		
 
 	}
+
 }
